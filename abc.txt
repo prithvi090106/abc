@@ -150,6 +150,7 @@ build other
 
 delete workspace before
 
+
 build steps:
 copy artifacts -> **/*
 invoke -> test
